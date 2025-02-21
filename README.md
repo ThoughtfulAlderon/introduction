@@ -1,4 +1,4 @@
-# Thoughtful Mod Rosta :trident~1: 
+# Thoughtful Mod Rosta
 
 
 ## Maps:
